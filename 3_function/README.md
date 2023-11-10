@@ -1,12 +1,12 @@
 ## What is function
-Function get's (possibly empty) input arguments and returns (possible empty) values.
+Functions get (possibly empty) input arguments and return (possible empty) values.
 
 ## A macro that prints given string
 
 ```rust
 //main.rc
 fn add(x: u32, y: u32) -> u32 {  // arguments are type annotated, and the type of return value is specified
-  x + y  // the last expression in the functino weill be used as return value
+  x + y  // the last expression in the function will be used as return value
 }
 
 fn mul(x: u32, y: u32) -> u32 {
