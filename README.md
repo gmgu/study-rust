@@ -6,6 +6,7 @@ Let's study Rust :)
 - 1_hello_rust: a program that prints "Hello Rust!"
 - 2_macro: an overloaded macro that prints given strings
 - 3_function: rust function examples
+- 4_standard_input: an example program that repeats user input
 
 
 ## To be written
