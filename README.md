@@ -8,9 +8,7 @@ Let's study Rust :)
 - 3_function: rust function examples
 - 4_standard_input: an example program that repeats user input
 
-
 ## To be written
-
 
 ## References
 - https://doc.rust-lang.org/stable/rust-by-example/
