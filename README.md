@@ -7,6 +7,7 @@ Let's study Rust :)
 - 2_macro: an overloaded macro that prints given strings
 - 3_function: rust function examples
 - 4_standard_input: an example program that repeats user input
+- 5_variable: mutable, immutable, and constant variables
 
 ## To be written
 
