@@ -8,7 +8,7 @@ Some remarkable characteristics of the variables in Rust is as follows:
 - The name of constant variables should be upper cased and words are connected by underscores.
 - The value of a constant variable must be computable in compile time.
 
-## A program that repeats standard input
+## Examples
 
 ```rust
 //main.rc
