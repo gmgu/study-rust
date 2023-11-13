@@ -8,6 +8,7 @@ Let's study Rust :)
 - 3_function: rust function examples
 - 4_standard_input: an example program that repeats user input
 - 5_variable: mutable, immutable, and constant variables
+- 6_control_flow: if, loop, for, while
 
 ## To be written
 
