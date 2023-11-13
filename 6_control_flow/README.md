@@ -1,5 +1,5 @@
 ## Control Flow
-We will learn how to use if, while, and for statments.
+We learn how to use if, loop, while, and for statments.
 
 ## Examples
 
@@ -67,7 +67,8 @@ fn main() {
 ```
 
 ### if
-No parentheses for the condition. Must use brackets. No implicit type conversion from numbers to boolean.
+No parentheses for the condition. Must use brackets. No implicit type conversion from numbers to boolean. 
+Can assign value to the variable using condition in the form of `variable = if condition {value for condition holds} else {value for otherwise}`
 
 ### loop
 Infinite loop. Can be labeled, and can break the labeled loop in the nested loop.
