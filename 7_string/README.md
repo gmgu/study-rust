@@ -25,7 +25,7 @@ fn main() {
 
 The length of string literals can be determined in the compile time, so string literals are stored in the stack.
 
-A variable-length strings should be stored in the heap. We can allocated using String::from method.
+A variable-length strings should be stored in the heap. Strings can be allocated using String::from method.
 
 ## Usage
 ```bash
