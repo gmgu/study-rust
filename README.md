@@ -9,6 +9,7 @@ Let's study Rust :)
 - 4_standard_input: an example program that repeats user input
 - 5_variable: mutable, immutable, and constant variables
 - 6_control_flow: if, loop, for, while
+- 7_string: basic string handling
 
 ## To be written
 
