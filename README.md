@@ -10,6 +10,7 @@ Let's study Rust :)
 - 5_variable: mutable, immutable, and constant variables
 - 6_control_flow: if, loop, for, while
 - 7_string: basic string handling
+- 8_type: scalar types and compound types
 
 ## To be written
 
