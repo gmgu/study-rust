@@ -11,6 +11,7 @@ Let's study Rust :)
 - 6_control_flow: if, loop, for, while
 - 7_string: basic string handling
 - 8_type: scalar types and compound types
+- 9_ownership: examples for ownership
 
 ## To be written
 
