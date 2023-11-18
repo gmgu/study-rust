@@ -12,6 +12,7 @@ Let's study Rust :)
 - 7_string: basic string handling
 - 8_type: scalar types and compound types
 - 9_ownership: examples for ownership
+- 10_reference: example of mutable and immutable reference
 
 ## To be written
 
